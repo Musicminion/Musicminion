@@ -1,4 +1,4 @@
-#### Profile
+### Profile
 
 - 👋 Hi, I’m @Musicminion!Glad to see You on Github!
 - 👀 I’m interested in Programing, webdesign and music composition,just as what my nickname told.
@@ -7,11 +7,23 @@
 - 📫 How to reach me? Please email at me via zhangziqian@sjtu.edu.cn!
 - Currently learning: ICS(Composition and System Softwore) Advanced Data Structure, OS, Software testing, Cloud OS, these repo will be public at the end of these semester
 
-#### Project 
+### Project 
 - [KV-Store Database](https://github.com/Musicminion/2022-2023-2-Advanced-Data-Structure) (2023.3 A tiny C++ kv-store db using skip table and BF fliter, For course ADS)
 - [E-Book](https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development) (2022.3 ~ 2022.6 A React-Based and Spingboot Based Web Application, For course WebDEV)
 - [E-Book Pro](https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development) (2022.9 ~ 2022.12 A EBook with For High Performance Situation, using Redis, ElasticSearch...)
 
+### Personal Link
+- [Bilibili](https://space.bilibili.com/629072462)
+- [水源社区](https://shuiyuan.sjtu.edu.cn/u/ayaka)
+- [语雀文档](https://ayaka.yuque.com)
+- [CSDN](https://www.csdn.net)
+
+### Notes Project
+Some personal notes has been published to website using [Docusaurus](https://github.com/facebook/docusaurus), you may need some tools to view this website since some network reasons. Don't use it for commercial use! Good luck to you for exams~
+- [**Application-system-architecture Notes**](https://application-system-architecture.netlify.app/)
+- ICS notes (Still in work, come soon!)
+- Advanced Data Structure Notes (Still in work, come soon!)
+- OS notes (Still in work, come soon!)
 
 <!---
 Musicminion/Musicminion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
