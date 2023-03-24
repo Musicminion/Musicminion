@@ -8,8 +8,9 @@
 - Currently learning: ICS(Composition and System Softwore) Advanced Data Structure, OS, Software testing, Cloud OS, these repo will be public at the end of these semester
 
 #### Project 
-- [KV-Store Database](https://github.com/Musicminion/2022-2023-2-Advanced-Data-Structure) (2023.3 A tiny kv-store db using skip table and BF fliter, For course ADS)
+- [KV-Store Database](https://github.com/Musicminion/2022-2023-2-Advanced-Data-Structure) (2023.3 A tiny C++ kv-store db using skip table and BF fliter, For course ADS)
 - [E-Book](https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development) (2022.3 ~ 2022.6 A React-Based and Spingboot Based Web Application, For course WebDEV)
+- [E-Book Pro](https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development) (2022.9 ~ 2022.12 A EBook with For High Performance Situation, using Redis, ElasticSearch...)
 
 
 <!---
