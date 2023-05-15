@@ -12,7 +12,7 @@
 - [E-Book](https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development) (2022.3 ~ 2022.6 A React-Based and Spingboot Based Web Application, For course WebDEV)
 - [E-Book Pro](https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development) (2022.9 ~ 2022.12 A EBook with For High Performance Situation, using Redis, ElasticSearch...)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Musicminion&count_private=true&show_icons=true&theme=vue-light&hide_title=true"/>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Musicminion&count_private=true&show_icons=true&theme=vue-dark&hide_title=true"/>
 
 ### Personal Link
 - [Bilibili](https://space.bilibili.com/629072462)
