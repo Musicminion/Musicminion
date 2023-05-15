@@ -12,6 +12,8 @@
 - [E-Book](https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development) (2022.3 ~ 2022.6 A React-Based and Spingboot Based Web Application, For course WebDEV)
 - [E-Book Pro](https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development) (2022.9 ~ 2022.12 A EBook with For High Performance Situation, using Redis, ElasticSearch...)
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Musicminion&count_private=true&show_icons=true&theme=vue-light&hide_title=true"/>
+
 ### Personal Link
 - [Bilibili](https://space.bilibili.com/629072462)
 - [水源社区](https://shuiyuan.sjtu.edu.cn/u/ayaka)
@@ -24,6 +26,8 @@ Some personal notes has been published to website using [Docusaurus](https://git
 - ICS notes (Still in work, come soon! Release before 2024.3)(2022.9-2023.6)
 - Advanced Data Structure Notes (Still in work, come soon! Release before 2023.6)(2023.2-2023.6)
 - OS notes (Still in work, come soon! Release before 2023.12)(2023.2-2023.6)
+
+
 
 <!---
 Musicminion/Musicminion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
