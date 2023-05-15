@@ -16,7 +16,9 @@
 
 
 ### Personal Link
-<img align='right' src="https://git-status.ayaka.space/api/wakatime?username=Ayaka&layout=compact&langs_count=6&theme=vue-dark"/>
+
+<img align='right' src="https://git-status.ayaka.space/api/wakatime?username=Ayaka&layout=compact&langs_count=6&theme=vue-dark" />
+
 - [Bilibili](https://space.bilibili.com/629072462)
 - [水源社区](https://shuiyuan.sjtu.edu.cn/u/ayaka)
 - [语雀文档](https://ayaka.yuque.com)
