@@ -23,7 +23,7 @@
 
 ### Notes Project
 Some personal notes has been published to website using [Docusaurus](https://github.com/facebook/docusaurus), you may need some tools to view this website since some network reasons. Don't use it for commercial use! Good luck to you for exams~
-- [**Application-system-architecture Notes**](https://application-system-architecture.netlify.app/)(2022.9-2022.12)
+- [**Application-system-architecture Notes**](https://web-arch.ayaka.space/)(2022.9-2022.12)
 - ICS notes (Still in work, come soon! Release before 2024.3)(2022.9-2023.6)
 - Advanced Data Structure Notes (Still in work, come soon! Release before 2023.6)(2023.2-2023.6)
 - OS notes (Still in work, come soon! Release before 2023.12)(2023.2-2023.6)
