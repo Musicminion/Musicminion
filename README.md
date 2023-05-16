@@ -13,12 +13,9 @@
 - [E-Book Pro](https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development) (2022.9 ~ 2022.12 A EBook with For High Performance Situation, using Redis, ElasticSearch...)
 
 
-
-
-### Personal Link
-
 <img align='right' src="https://git-status.ayaka.space/api/wakatime?username=Ayaka&layout=compact&langs_count=6&theme=vue-dark" />
 
+### Personal Link
 - [Bilibili](https://space.bilibili.com/629072462)
 - [水源社区](https://shuiyuan.sjtu.edu.cn/u/ayaka)
 - [语雀文档](https://ayaka.yuque.com)
