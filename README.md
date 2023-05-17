@@ -1,5 +1,7 @@
 ### Profile
 
+[![wakatime](https://wakatime.com/badge/user/485d951d-d928-4160-b75c-855525f5ae42.svg)](https://wakatime.com/@485d951d-d928-4160-b75c-855525f5ae42)
+
 - 👋 Hi, I’m @Musicminion!Glad to see You on Github!
 - 👀 I’m interested in Programing, webdesign and music composition,just as what my nickname told.
 - 🌱 Special thanks to the course of the School of Software, Shanghai Jiaotong University, which provided scientific guidance for my programming study
