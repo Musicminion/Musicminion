@@ -1,6 +1,7 @@
 ### Profile
 
 [![wakatime](https://wakatime.com/badge/user/485d951d-d928-4160-b75c-855525f5ae42.svg)](https://wakatime.com/@485d951d-d928-4160-b75c-855525f5ae42)
+![](https://img.shields.io/badge/Genshin_impact-Level_55-blue)
 
 - 👋 Hi, I’m @Musicminion! Glad to see You on Github!
 - 👀 I’m interested in Programing, webdesign and music composition,just as what my nickname told.
