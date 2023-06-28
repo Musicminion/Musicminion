@@ -8,7 +8,7 @@
 - 🌱 Special thanks to the course of the School of Software, Shanghai Jiaotong University, which provided scientific guidance for my programming study
 - 💞️ I’m more looking to collaborate those who are responsible especially in a team work.In the meantime, I will also try my best!
 - 📫 How to reach me? Please email at me via zhangziqian@sjtu.edu.cn(work) or report@takagi3.love(personal email)!
-- Currently learning: CSE, OS, Compiler, these repos will be public at the end of 2023-2024-1
+- Currently learning: CSE, OS, Compiler, these repos will be public at the end of 2023-2024-1/2
 
 ### Project 
 - [KV-Store Database](https://github.com/Musicminion/2022-2023-2-Advanced-Data-Structure) (2023.3 A tiny C++ kv-store db using skip table and BF fliter, For course ADS)
