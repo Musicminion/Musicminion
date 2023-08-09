@@ -38,7 +38,6 @@ Some personal notes has been published to website using [Docusaurus](https://git
   <img align='left' src="https://git-status.ayaka.space/api?username=Musicminion&count_private=true&show_icons=true&theme=vue-dark&hide_title=true"/>
 </div>
 
-
 <!---
 Musicminion/Musicminion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
