@@ -5,8 +5,8 @@
 
 - 👋 Hi, I’m @Musicminion! Glad to see You on Github!
 - 👀 I’m interested in Programing, webdesign and music composition,just as what my nickname told.
-- 📫 Also a naive MMEer like [jimingyue-ayaka-mmd](https://www.bilibili.com/video/BV1a94y167Ko/) and [ganyu-mmd](https://www.bilibili.com/video/BV17j41167qn)(7K+view times). Hope you enjoy!
-- 💞️ A naive MMEer like [takagi3-MAD](https://www.bilibili.com/video/BV1c8411x7UP/)(18K+view times!). Hope you enjoy!
+- 📫 Also a naive MMDer like [jimingyue-ayaka-mmd](https://www.bilibili.com/video/BV1a94y167Ko/) and [ganyu-mmd](https://www.bilibili.com/video/BV17j41167qn)(7K+view times). Hope you enjoy!
+- 💞️ A naive MADer like [takagi3-MAD](https://www.bilibili.com/video/BV1c8411x7UP/)(18K+view times!). Hope you enjoy!
 - 🌱 Special thanks to the course of the School of Software, Shanghai Jiaotong University, which provided scientific guidance for my programming study
 - 💞️ I’m more looking to collaborate those who are responsible especially in a team work.In the meantime, I will also try my best!
 - 📫 How to reach me? Please email at me via zhangziqian@sjtu.edu.cn(work) or report@takagi3.love(personal email)!
