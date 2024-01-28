@@ -7,7 +7,7 @@
 - 👀 I’m interested in Programing, webdesign and music composition,just as what my nickname told.
 - 🌱 Special thanks to the course of the School of Software, Shanghai Jiaotong University, which provided scientific guidance for my programming study
 - 💞️ I’m more looking to collaborate those who are responsible especially in a team work.In the meantime, I will also try my best!
-- 📫 How to reach me? Please email at me via zhangziqian@sjtu.edu.cn(work) or report@takagi3.love(personal email)!
+- 📫 How to reach me? Please email at me via zhangziqian@sjtu.edu.cn(work) or public@ayaka.space(personal email)!
 - [My blog Link](https://blog.ayaka.space)，Hopefully I can write some diary.
 
 ### Project 
