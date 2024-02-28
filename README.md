@@ -1,7 +1,6 @@
 ### Profile
 
 [![wakatime](https://wakatime.com/badge/user/485d951d-d928-4160-b75c-855525f5ae42.svg)](https://wakatime.com/@485d951d-d928-4160-b75c-855525f5ae42)
-![](https://img.shields.io/badge/Genshin_impact-Level_56-blue)
 
 - 👋 Hi, I’m @Musicminion! Glad to see You on Github!
 - 👀 I’m interested in Programing, webdesign and music composition,just as what my nickname told.
@@ -9,6 +8,11 @@
 - 💞️ I’m more looking to collaborate those who are responsible especially in a team work.In the meantime, I will also try my best!
 - 📫 How to reach me? Please email at me via zhangziqian@sjtu.edu.cn(work) or public@ayaka.space(personal email)!
 - [My blog Link](https://blog.ayaka.space)，Hopefully I can write some diary.
+
+
+### Blog
+<a href="https://blog.ayaka.space"><img src="https://github.com/Musicminion/blog/blob/main/metrics.svg"/></a>
+
 
 ### Project 
 - [KV-Store Database](https://github.com/Musicminion/2022-2023-2-Advanced-Data-Structure) (2023.3 A tiny C++ kv-store db using skip table and BF fliter, For course ADS)
@@ -38,6 +42,7 @@ Some personal notes has been published to website using [Docusaurus](https://git
   <img align='left' src="https://git-status.ayaka.space/api/top-langs/?username=Musicminion&langs_count=6&layout=compact&theme=vue-dark&hide=vue,html"/>
   <img align='left' src="https://git-status.ayaka.space/api?username=Musicminion&count_private=true&show_icons=true&theme=vue-dark&hide_title=true"/>
 </div>
+
 
 <!---
 Musicminion/Musicminion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
