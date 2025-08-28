@@ -39,8 +39,8 @@ Some personal notes has been published to website using [Docusaurus](https://git
 - OS notes (Still in work, come soon! Release before 2023.12)(2023.2-2023.6)
 
 <div>
-  <img align='left' src="https://git-status.ayaka.space/api/top-langs/?username=Musicminion&langs_count=6&layout=compact&theme=vue-dark&hide=vue,html"/>
-  <img align='left' src="https://git-status.ayaka.space/api?username=Musicminion&count_private=true&show_icons=true&theme=vue-dark&hide_title=true"/>
+  <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musicminion&langs_count=6&layout=compact&theme=vue-dark&hide=vue,html"/>
+  <img align='left' src="https://github-readme-stats.vercel.app/api?username=Musicminion&count_private=true&show_icons=true&theme=vue-dark&hide_title=true"/>
 </div>
 
 
