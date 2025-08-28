@@ -11,7 +11,7 @@
 
 
 ### Blog
-<a href="https://blog.ayaka.space"><img src="https://github.com/Musicminion/blog/blob/main/metrics.svg"/></a>
+<a href="https://blog.ayaka.space"><img src="https://raw.githubusercontent.com/Musicminion/blog/refs/heads/main/metrics.svg"/></a>
 
 
 ### Project 
