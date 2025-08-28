@@ -21,7 +21,7 @@
 - [minik8s](https://github.com/minik8s) (2023.3 A tiny container orchestration tool, For course Cloud-OS)
 
 
-<img align='right' src="https://git-status.ayaka.space/api/wakatime?username=Ayaka&layout=compact&langs_count=6&theme=vue-dark" />
+<img align='right' src="https://github-readme-stats.vercel.app/api/wakatime?username=Ayaka&layout=compact&langs_count=6&theme=vue-dark" />
 
 ### Personal Link
 - [Bilibili](https://space.bilibili.com/629072462)
