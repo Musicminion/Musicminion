@@ -8,11 +8,6 @@
 - 📫 How to reach me? Please email at me via public@ayaka.space(personal email)!
 - [My blog Link](https://blog.ayaka.space)，Hopefully I can write some diary.
 
-
-### Blog
-<a href="https://blog.ayaka.space"><img src="https://raw.githubusercontent.com/Musicminion/blog/refs/heads/main/metrics.svg"/></a>
-
-
 ### Project
 - [Overleaf Pro](https://github.com/ayaka-notes/overleaf-pro) (2025–Present) An enterprise-grade enhancement for Overleaf Community Edition, featuring advanced administration, template management, AI-powered LaTeX assistant, PDF retention and workflow improvements.
 - [minik8s](https://github.com/minik8s) (2023.3) A lightweight Kubernetes-inspired container orchestration platform implemented in Go, supporting core scheduling, networking and container lifecycle management.
