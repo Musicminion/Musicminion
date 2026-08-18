@@ -7,6 +7,7 @@
 - 💞️ I’m more looking to collaborate those who are responsible especially in a team work.In the meantime, I will also try my best!
 - 📫 How to reach me? Please email at me via public@ayaka.space(personal email)!
 - [My blog Link](https://blog.ayaka.space)，Hopefully I can write some diary.
+- Afdian [link](https://afdian.com/a/musicminion)
 
 ### Project
 - [Overleaf Pro](https://github.com/ayaka-notes/overleaf-pro) (2025–Present) An enterprise-grade enhancement for Overleaf Community Edition, featuring advanced administration, template management, AI-powered LaTeX assistant, PDF retention and workflow improvements.
