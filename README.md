@@ -5,7 +5,7 @@
 - 👋 Hi, I’m @Musicminion! Glad to see You on [Github](https://github.com/Musicminion) or [My Gitlab](https://git.ayaka.space/Musicminion)!
 - 👀 I’m interested in Programing, webdesign and music composition,just as what my nickname told.
 - 💞️ I’m more looking to collaborate those who are responsible especially in a team work.In the meantime, I will also try my best!
-- 📫 How to reach me? Please email at me via public@ayaka.space(personal email)!
+- 📫 How to reach me? Please email at me via ayaka@outlook.in (personal email)!
 - [My blog Link](https://blog.ayaka.space)，Hopefully I can write some diary.
 - Afdian [link](https://afdian.com/a/musicminion)
 
