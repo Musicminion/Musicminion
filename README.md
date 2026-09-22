@@ -16,6 +16,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api/wakatime?username=Ayaka&layout=compact&langs_count=6&theme=vue-dark" />
 
 
+
 ### Notes Project
 Some personal notes has been published to website using [Docusaurus](https://github.com/facebook/docusaurus), you may need some tools to view this website since some network reasons. Don't use it for commercial use!
 - [**Ayaka-notes Navigation Page**](https://ayaka-notes.github.io), You will find all you may need, though some are not open right now.
@@ -24,6 +25,11 @@ Some personal notes has been published to website using [Docusaurus](https://git
 - [**ICS notes**](https://ics.ayaka.space/)(2022.9-2023.6, still in work, web closed!)
 - Advanced Data Structure Notes (Still in work, come soon! Release before 2023.6)(2023.2-2023.6)
 - OS notes (Still in work, come soon! Release before 2023.12)(2023.2-2023.6)
+
+### Statistic
+
+[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/musicminion?variant=radar&lang=en)](https://ghfind.com/u/musicminion?ref=badge)
+
 
 <div>
   <img align='left' src="https://github-stats-extended.vercel.app/api/top-langs/?username=Musicminion&langs_count=6&layout=compact&theme=vue-dark&hide=vue,html"/>
