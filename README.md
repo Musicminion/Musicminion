@@ -11,7 +11,6 @@
 - [Ayakaleaf Pro](https://github.com/ayaka-notes/ayakaleaf-pro) (2025–Present) An enterprise-grade enhancement for Overleaf Community Edition, featuring advanced administration, template management, AI-powered LaTeX assistant, PDF retention and workflow improvements.
 - [TeXLive Full](https://github.com/ayaka-notes/texlive-full) (2024-Presesent) An docker image for overleaf sandbox.
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/wakatime?username=Ayaka&layout=compact&langs_count=6&theme=vue-dark" />
 
 
 ### Statistic
